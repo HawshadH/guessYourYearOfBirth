@@ -1,0 +1,13 @@
+C:\Users\Hawsh\Desktop\guessYourYearOfBirth\guessYourYearOfBirth\bin\Debug\netcoreapp3.1\guessYourYearOfBirth.exe
+C:\Users\Hawsh\Desktop\guessYourYearOfBirth\guessYourYearOfBirth\bin\Debug\netcoreapp3.1\guessYourYearOfBirth.deps.json
+C:\Users\Hawsh\Desktop\guessYourYearOfBirth\guessYourYearOfBirth\bin\Debug\netcoreapp3.1\guessYourYearOfBirth.runtimeconfig.json
+C:\Users\Hawsh\Desktop\guessYourYearOfBirth\guessYourYearOfBirth\bin\Debug\netcoreapp3.1\guessYourYearOfBirth.runtimeconfig.dev.json
+C:\Users\Hawsh\Desktop\guessYourYearOfBirth\guessYourYearOfBirth\bin\Debug\netcoreapp3.1\guessYourYearOfBirth.dll
+C:\Users\Hawsh\Desktop\guessYourYearOfBirth\guessYourYearOfBirth\bin\Debug\netcoreapp3.1\guessYourYearOfBirth.pdb
+C:\Users\Hawsh\Desktop\guessYourYearOfBirth\guessYourYearOfBirth\obj\Debug\netcoreapp3.1\guessYourYearOfBirth.csprojAssemblyReference.cache
+C:\Users\Hawsh\Desktop\guessYourYearOfBirth\guessYourYearOfBirth\obj\Debug\netcoreapp3.1\guessYourYearOfBirth.AssemblyInfoInputs.cache
+C:\Users\Hawsh\Desktop\guessYourYearOfBirth\guessYourYearOfBirth\obj\Debug\netcoreapp3.1\guessYourYearOfBirth.AssemblyInfo.cs
+C:\Users\Hawsh\Desktop\guessYourYearOfBirth\guessYourYearOfBirth\obj\Debug\netcoreapp3.1\guessYourYearOfBirth.csproj.CoreCompileInputs.cache
+C:\Users\Hawsh\Desktop\guessYourYearOfBirth\guessYourYearOfBirth\obj\Debug\netcoreapp3.1\guessYourYearOfBirth.dll
+C:\Users\Hawsh\Desktop\guessYourYearOfBirth\guessYourYearOfBirth\obj\Debug\netcoreapp3.1\guessYourYearOfBirth.pdb
+C:\Users\Hawsh\Desktop\guessYourYearOfBirth\guessYourYearOfBirth\obj\Debug\netcoreapp3.1\guessYourYearOfBirth.genruntimeconfig.cache
